@@ -31,25 +31,25 @@ ADR·장애 보고서
 -----
 한 달 종료 시 필요한 최소 산출물
 
-README.md
-docs/
-├── 01-problem-statement.md
-├── 02-business-rules.md
-├── 03-domain-model.md
-├── 04-architecture.md
-├── adr/
-│   ├── 001-modular-monolith.md
-│   ├── 002-idempotency.md
-│   ├── 003-payment-unknown-state.md
-│   └── 004-outbox-pattern.md
-├── incidents/
-│   ├── pg-timeout.md
-│   ├── kafka-outage.md
-│   └── application-crash.md
-├── performance/
-│   ├── baseline.md
-│   └── optimization-result.md
-└── retrospective.md
+README.md </br>
+docs/ </br>
+├── 01-problem-statement.md  </br>
+├── 02-business-rules.md </br>
+├── 03-domain-model.md </br>
+├── 04-architecture.md </br>
+├── adr/  </br>
+│   ├── 001-modular-monolith.md </br>
+│   ├── 002-idempotency.md </br>
+│   ├── 003-payment-unknown-state.md </br>
+│   └── 004-outbox-pattern.md </br>
+├── incidents/ </br>
+│   ├── pg-timeout.md </br>
+│   ├── kafka-outage.md </br>
+│   └── application-crash.md </br>
+├── performance/ </br>
+│   ├── baseline.md </br>
+│   └── optimization-result.md </br>
+└── retrospective. </br>
 
 그리고 실행 명령 하나로 환경이 올라와야 함.
 
